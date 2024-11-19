@@ -1,0 +1,15 @@
+names:
+- circle
+- square
+- triangle
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: sonar_imagrey_03
+  url: https://universe.roboflow.com/sonar-imagry-data-set/sonar_imagrey_03/dataset/2
+  version: 2
+  workspace: sonar-imagry-data-set
+test: C:\Users\josep\Desktop\Python_projects\YOLOv9_Play_02\Sonar_Imagrey_03-2\test\images
+train: C:\Users\josep\Desktop\Python_projects\YOLOv9_Play_02\Sonar_Imagrey_03-2\train\images
+val: C:\Users\josep\Desktop\Python_projects\YOLOv9_Play_02\Sonar_Imagrey_03-2\valid\images
+
